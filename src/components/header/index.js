@@ -9,7 +9,7 @@ const Header = () => {
                     Xpensr <i class="fi fi-rr-credit-card"></i>
                 </div>
                 <div className='header-button'>
-                    <a href='https://github.com/Favourkass'>
+                    <a href='https://github.com/Favourkass' target = "_blank" rel='noopener noreferrer'>
                     <i class="devicon-github-original"></i> Star
                     </a>
                 </div>
